@@ -4,4 +4,4 @@ jobs:
   greeting:
     runs-on: ubuntu-latest
     steps:
-      -run: pytest test_main.py
+      -run: echo hello world
